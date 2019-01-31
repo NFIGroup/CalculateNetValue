@@ -1,0 +1,7 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\bin\Debug\Calculate Net Value.dll.config
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\bin\Debug\Calculate Net Value.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\bin\Debug\Calculate Net Value.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\obj\Debug\Calculate_Net_Value.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\obj\Debug\Calculate Net Value.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\obj\Debug\Calculate Net Value.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\Calculate Net Value\Calculate Net Value\obj\Debug\Calculate Net Value.pdb
